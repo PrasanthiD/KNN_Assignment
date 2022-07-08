@@ -1,41 +1,41 @@
 # KNN_Assignment
 
-1) Implement a KNN model to classify the animals into category
+1) Implement a KNN model to classify the zoo animals into category
 
-Prepare a model for glass classification using KNN
+2) Prepare a model for glass classification using KNN
 
-Data Description:
+   Data Description:
 
-RI : refractive index
+   RI : refractive index
 
-Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
+   Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
 
-Mg: Magnesium
+   Mg: Magnesium
 
-AI: Aluminum
+   AI: Aluminum
 
-Si: Silicon
+   Si: Silicon
 
-K:Potassium
+   K:Potassium
 
-Ca: Calcium
+   Ca: Calcium
 
-Ba: Barium
+   Ba: Barium
 
-Fe: Iron
+   Fe: Iron
 
-Type: Type of glass: (class attribute)
+   Type: Type of glass: (class attribute)
 
- 1 -- building_windows_float_processed
+        1 -- building_windows_float_processed
  
- 2 --building_windows_non_float_processed
+        2 --building_windows_non_float_processed
  
- 3 --vehicle_windows_float_processed
+        3 --vehicle_windows_float_processed
  
- 4 --vehicle_windows_non_float_processed (none in this database)
+        4 --vehicle_windows_non_float_processed (none in this database)
  
- 5 --containers
+        5 --containers
  
- 6 --tableware
+        6 --tableware
  
- 7 --headlamps
+        7 --headlamps
